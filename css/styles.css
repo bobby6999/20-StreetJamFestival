@@ -31,6 +31,7 @@ header {
 h2 {
   color:#cfef4f;
   font-weight:700;
+  font-size: 170%;
   text-transform: uppercase;
 }
 
@@ -40,8 +41,14 @@ p {
 
 .big {
   color:#aa4eaa;
+  font-weight: 700;
 }
 
 .bigblue {
   color:#5cc4eb;
+  font-weight: 700;
+}
+
+.schedule {
+  text-align: center;
 }
