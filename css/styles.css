@@ -2,9 +2,46 @@ body {
   max-width: 320px;
   margin: auto;
   background: #ddd;
+  font-family: Work Sans;
 }
 
 img {
   display: block;
   max-width: 100%;
+}
+
+nav {
+  background-color: #cfef4f;
+  color:#aa4eaa;
+}
+
+header {
+  background-image: url(../img/mur-plein-vieilles-annonces.png);
+  font-weight: 700 ;
+}
+
+.pink {
+  background-color: #aa4eaa;
+}
+
+.blue {
+  background-color: #5cc4eb;
+}
+
+h2 {
+  color:#cfef4f;
+  font-weight:700;
+  text-transform: uppercase;
+}
+
+p {
+  color:#cfef4f;
+}
+
+.big {
+  color:#aa4eaa;
+}
+
+.bigblue {
+  color:#5cc4eb;
 }
