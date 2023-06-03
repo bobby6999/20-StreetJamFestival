@@ -13,25 +13,32 @@ img {
 nav {
   background-color: #cfef4f;
   color:#aa4eaa;
+  
 }
 
 header {
   background-image: url(../img/mur-plein-vieilles-annonces.png);
-  font-weight: 700 ;
+  font-weight: 700;
+}
+
+h1 {
+  padding: 0 30px 30px;
 }
 
 .pink {
   background-color: #aa4eaa;
+  padding: 15px;
 }
 
 .blue {
   background-color: #5cc4eb;
+  padding: 15px;
 }
 
 h2 {
   color:#cfef4f;
   font-weight:700;
-  font-size: 170%;
+  font-size:xx-large;
   text-transform: uppercase;
 }
 
