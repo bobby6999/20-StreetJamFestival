@@ -1,5 +1,5 @@
 body {
-  max-width: 320px;
+  max-width: 375px;
   margin: auto;
   background: #ddd;
   font-family: Work Sans;
@@ -28,7 +28,16 @@ nav {
 header {
   background-image: url(../img/bckground.png);
   font-weight: 700;
+  position:relative;
 }
+
+.star-shape {
+  height: 160px;
+  position:absolute; 
+  bottom: 430px;
+  left: 260px;
+}
+
 
 .date {
   font-size: 30px;
@@ -44,13 +53,24 @@ h1 {
   padding: 15px;
   border-top:#5cc4eb 15px solid;
   border-left:#5cc4eb 15px solid;
- 
+  position:relative;
 }
+
+.hashtag-shape{
+  position:absolute;
+  bottom: 400px;
+  left: 180px;
+}
+
 
 .blue {
   background-color: #5cc4eb;
   padding: 15px;
   border-left: #cfef4f 15px solid;
+}
+
+.skate-shape {
+  
 }
 
 h2 {
@@ -95,3 +115,4 @@ footer {
   justify-content: flex-start;
   align-items: center;
 }
+
