@@ -13,7 +13,6 @@ img {
 nav {
   background-color: #cfef4f;
   color:#aa4eaa;
-  
 }
 
 a {
@@ -38,19 +37,21 @@ h1 {
 .pink {
   background-color: #aa4eaa;
   padding: 15px;
+  border-top:#5cc4eb 15px solid;
   border-left:#5cc4eb 15px solid;
+ 
 }
 
 .blue {
   background-color: #5cc4eb;
   padding: 15px;
-  border-left: #aa4eaa 15px solid;
+  border-left: #cfef4f 15px solid;
 }
 
 h2 {
   color:#cfef4f;
-  font-weight:700;
-  font-size:xx-large;
+  font-weight:900;
+  font-size:40px;
   text-transform: uppercase;
 }
 
