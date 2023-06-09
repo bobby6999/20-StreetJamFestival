@@ -38,7 +38,6 @@ header {
   left: 260px;
 }
 
-
 .date {
   font-size: 30px;
   padding-left: 30px;
@@ -56,25 +55,52 @@ h1 {
   position:relative;
 }
 
-.hashtag-shape{
-  position:absolute;
-  bottom: 400px;
-  left: 180px;
+.hashtag-shape {
+  position: absolute;
+  bottom: 370px;
+  left: 235px;
+  height: 250px;
 }
-
 
 .blue {
   background-color: #5cc4eb;
   padding: 15px;
   border-left: #cfef4f 15px solid;
+  position:relative;
 }
 
 .skate-shape {
-  
+  position: absolute;
+  right: 106px;
+  height: 413px;
+  bottom: 870px;
+}
+
+.music-shape {
+  position: absolute;
+  bottom: 133px;
+  height: 302px;
+  left: 168px;
+  transform: rotate(32deg);
+}
+
+.sparkle-shape {
+  position: absolute;
+  height: 241px;
+  left: 266px;
+  bottom: 800px;
+}
+
+.star-shape-blue {
+  position:absolute;
+  height: 272px;
+  bottom: 270px;
+  left: 226px;
 }
 
 h2 {
   color:#cfef4f;
+  font-family: Rubik ;
   font-weight:900;
   font-size:40px;
   text-transform: uppercase;
